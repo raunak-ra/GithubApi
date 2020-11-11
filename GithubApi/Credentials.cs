@@ -2,7 +2,7 @@
 {
     public class Credentials
     {
-        public readonly static string Username = "avata7";
-        public readonly static string Password = "Table@123456";
+        public readonly static string Username = "abcd";
+        public readonly static string Password = "12345";
     }
 }
